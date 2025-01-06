@@ -56,6 +56,8 @@ pull-requests = [
   "11285",
   # feat: add basic support for icons
   "12369",
+  # feat: new statusline.merge-with-commandline option
+  "12204",
 ]
 
 # Optional: A list of patches to apply
